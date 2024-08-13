@@ -1,0 +1,118 @@
+,Hotel_Name,location,City,Star_rating,Ratedby,Ratingsummary,Original_price_in(₹),Discount_in(%),Final_price_in(₹)
+0,Super OYO Townhouse 333 Sector 121 Noida Near Noida Sector 51 Metro Station,"Near Sector 121, Garhi Chaukhandi",Noida,3.7,2654,Good,3676,80,699
+1,OYO Hotel Metro Inn Near Worlds Of Wonder,near sector 18 metro station,Noida,4.3,1451,Very Good,2470,75,599
+2,Flagship Royel Inn Near Worlds Of Wonder,Near Metro Station Sector 18,Noida,3.3,99,Fair,2117,78,449
+3,OYO Hotel Small Town Near Botanic Garden Of Indian Republic,Sec 45,Noida,4.0,202,Very Good,2194,77,499
+4,OYO Townhouse 1062 Paradise Inn Near Noida Sector 51 Metro Station,Near S R S H Hospital,Noida,4.3,2232,Very Good,2809,65,983
+5,OYO Metaguest,Sector 49,Noida,3.2,366,Fair,1789,74,449
+6,Collection O Samira Residency Near Botanic Garden Of Indian Republic,Sadarpur,Noida,4.2,161,Very Good,2305,72,631
+7,OYO Townhouse 204 Sector 49 Near Logix city centre,"Near Hanuman Mandir, Sector-49",Noida,4.3,2382,Very Good,5061,65,1771
+8,OYO Hotel Quadis Near ISKCON Temple Noida,"BUILDING NO. H-22,BEHIND CLOUDNINE HOSPITAL",Noida,3.5,1785,Good,3318,83,549
+9,Flagship Soho Lite Near Iskcon Temple Noida,Sector-51,Noida,4.1,59,Very Good,1789,68,564
+10,OYO Townhouse 1030 Zodiac Near Botanic Garden of Indian Republic,Plot No.2,Noida,3.4,1057,Fair,2637,73,699
+11,Super OYO Townhouse 1053 Hotel The Premier View Near ISKCON Temple Noida,Sector 51,Noida,4.2,2417,Very Good,3079,64,1078
+13,OYO Flagship 81046 COMFORT RESIDENCY,Noida ,Noida,3.5,482,Fair,2302,68,725
+14,OYO Townhouse 75987 Sector 30 Near Botanic Garden of Indian Republic,"Near DPS Noida, Arun Vihar",Noida,3.3,1885,Fair,4519,70,1331
+15,Collection O Le Noida Hotel Near Sector 76 Metro Station,"Near Hanuman Temple, Hanuman Vihar, Sector 49",Noida,3.7,911,Good,2305,69,710
+16,OYO Shri Hotel Vip Near Worlds Of Wonder,Atta Market,Noida,3.9,864,Good,1793,68,559
+17,Flagship Ch. Ratiram Palace,Noida,Noida,3.2,100,Fair,2002,70,599
+18,Flagship Dream Comes True Hotel & Banquet Near Iskcon Temple Noida,Opposite Pillar No.205,Noida,4.3,35,Very Good,1802,68,568
+19,Capital O Peaceful Stays Near ISKCON Temple Noida,"Near Sec 59 Metro Station, Sector-71",Noida,3.6,1404,Good,2340,71,671
+20,OYO Townhouse 1077 Hotel travel time Near Noida Sector 51 Metro Station,Street No.2,Noida,3.6,966,Good,2625,75,649
+21,OYO Palace At Seventy Two Near Iskcon Temple Noida,Sector 72,Noida,4.2,1190,Very Good,2546,71,734
+22,OYO Flagship Royal Residency Near ISKCON Temple Noida,Sarfabad,Noida,4.4,112,Very Good,1789,68,564
+23,Flagship Gupta Residency Near Noida Sector 50 Metro Station,Sector -117,Noida,2.4,29,Fair,2497,77,564
+24,OYO Krishna Orchid Near Noida Sector 81 Metro Station,Salarpur Khadar,Noida,3.4,31,Fair,2265,73,603
+25,OYO Townhouse 004 Sector 51 Noida Near ISKCON Temple Noida,"Near Noida Sector 51 Metro, Sector 51",Noida,4.0,643,Very Good,4539,64,1589
+26,OYO Flagship Hotel Grand Shiva,Bhuwneshwer Plaza Sector 1 Greater Noida West,Noida,3.7,80,Good,1789,68,564
+27,SPOT ON Raj Hotel Vip Near Worlds Of Wonder,"Gali No. 5, Near Vinayak Hospital, Atta Market",Noida,4.5,2923,Excellent,1894,64,663
+28,OYO Townhouse 79643 Oyo Townhouse Hotel Merriment Near ISKCON Temple Noida,Sector 70,Noida,3.4,1672,Fair,2137,57,899
+29,OYO Townhouse 590 Sector 66 Noida Near Noida Sector 51 Metro Station,"Near RK Public School, Sector 66",Noida,3.5,3176,Good,3494,65,1223
+30,Collection O J S Garden Near Noida Sector 83 Metro Station,"Near Oracle, J S Garden",Noida,2.7,260,Fair,2454,77,559
+31,OYO Townhouse 1071 Hotel Metro Inn Residency Near ISKCON Temple Noida,Noida ,Noida,4.1,1033,Very Good,2834,65,992
+32,OYO Flagship 64950 Hotel Royal Plaza,"Near labour chowk, Brijesh Tower, Khora Main Road",Noida,3.3,232,Fair,1919,71,549
+33,Flagship Avs Hotel & Restaurant,Near Sector 52 metro station,Noida,4.3,63,Very Good,2342,68,738
+34,OYO Townhouse 588 Noida Sector 71 Near ISKCON Temple Noida,"Near A square mall ,Sector 70",Noida,3.3,1514,Fair,2393,66,794
+35,OYO Hotel Dahleez,Yadav Market Parthala Khanjarpur,Noida,4.6,29,Excellent,1789,69,549
+36,Flagship Hotel Signature 2.0 Near Iskcon Temple Noida,Sec-66 Noida (In House Restaurant),Noida,3.8,157,Good,1892,69,569
+37,Super OYO Townhouse 390 The Madhav Sector 58 Noida Near ISKCON Temple Noida,Sector 58,Noida,4.1,1304,Very Good,3677,65,1287
+38,Flagship Elite Homes Near Nsez Metro Station,Block B,Noida,3.2,65,Fair,2837,68,894
+39,OYO Paradise Pearl Hotel Near Iskcon Temple Noida,"Near IGl Oil Filing, Sector 71",Noida,4.8,734,Excellent,2232,57,949
+40,Flagship Shree Radha Krishna Palace,14th Avenue Noida,Noida,3.4,90,Fair,2470,79,499
+41,OYO 75115 SilverKey Executive Stays 75115 Discovery Suites,Sector 20,Noida,3.3,725,Fair,2602,68,820
+42,Collection O Shubham Residency Near Botanic Garden of Indian Republic,CB-3/3,Noida,4.3,948,Very Good,2762,68,870
+43,OYO Diamond Stays Near ISKCON Temple Noida,"Near mana Rachna School, Sector 51",Noida,3.4,524,Fair,3781,70,1105
+44,Flagship The Royale Stay,Near sector 52 METRO STATION,Noida,3.5,482,Fair,1789,68,564
+45,OYO K R Resdiancy Near Botanic Garden Of Indian Republic,Chauhan Restaurant,Noida,4.1,24,Very Good,1775,68,559
+46,OYO Flagship Hotel Green View Palace Near ISKCON Temple Noida,"Near Indus Valley Public School, Sector 62",Noida,3.6,717,Good,2508,66,839
+47,OYO FLAGSHIP OYO TOWNHOUSE HOTEL SUNSHINE Near ISKCON Temple Noida,Behind Lps Global Public School,Noida,4.0,614,Very Good,2450,66,813
+48,Flagship A One Hotel Near Noida Sector 81 Metro Station,Salarpur Khadar Noida Uttar Pradeshindia201301,Noida,4.7,52,Excellent,2246,69,687
+49,OYO New Apple Pie Near Iskcon Temple Noida,"On main street, Near Bio Fitness Gym, Sector 66",Noida,3.5,1120,Good,2305,72,633
+50,Flagship Elite Signature,Noida,Noida,3.5,482,Fair,1789,68,564
+51,Super OYO Hotel Noida Park Near Iskcon Temple Noida,Near Shyam Dairy,Noida,3.7,95,Good,1789,69,549
+52,Collection O Bj Residency Near Botanic Garden Of Indian Republic,Near The New Care Hospital Sec 45,Noida,3.2,358,Fair,1932,53,899
+53,OYO Townhouse 587 Sec 19,Sector 19,Noida,4.3,1277,Very Good,5205,65,1822
+54,OYO DSR Classic Near ISKCON Temple Noida,"Near Mother Dairy, Sec 12  Plot No-H 101",Noida,3.5,503,Good,2759,71,799
+55,OYO Flagship 810237 Hotel The Orchid,201307,Noida,4.1,12,Very Good,2308,74,599
+56,Flagship Ng Palace 2,"Near City Neter Metro Station, Sector 41",Noida,2.5,68,Fair,2121,71,598
+57,Flagship Hotel Ic Tower Near Noida Sector 51 Metro Station,Fng Vihar2 Secter 121,Noida,4.6,10,Excellent,1789,66,599
+58,Collection O Culture Hotel,201303.,Noida,4.4,28,Very Good,3887,65,1360
+59,Capital O Mt Corporate Stays Near Iskcon Temple Noida,Mamura,Noida,1.0,2,Fair,1792,68,564
+60,OYO Townhouse Signature 3.0 Near Iskcon Temple Noida,Mamura Sec-66 Noida ( In House Kitchen And Confrence Hall),Noida,3.3,41,Fair,2167,69,669
+61,OYO SILVERKEY EXECUTIVE RC Near ISKCON Temple Noida,"Near Labour Chowk, Khora Colony",Noida,3.0,1391,Fair,2012,68,634
+62,OYO Townhouse 764 Hotel Happy Keys Townhouse Near ISKCON Temple Noida,Sector 50,Noida,3.9,223,Good,3237,65,1133
+63,Collection O The Hotel Diamond Near Noida Sector 51 Metro Station,Nearby Shani Mandir,Noida,1.9,19,Fair,1789,69,549
+64,Flagship Omega Suits,plot number 4 sector 122 noida sector 122 noida,Noida,3.5,482,Fair,1789,68,564
+65,Super OYO Primrose Hotel's Near Noida Sector 76 Metro Station,Gautam Buddha Nagar,Noida,4.0,94,Very Good,1824,65,638
+66,Flagship Hotel Lemon View,"Near Punjab National Bank, Hajipur",Noida,2.9,26,Fair,1932,53,899
+67,Collection O Hotel Divine Inn Near Noida Sector 51 Metro Station,Sec121,Noida,4.7,275,Excellent,2322,64,813
+68,OYO Flagship Da Adda 18 Near Worlds of Wonder,Sector 27,Noida,3.1,165,Fair,2426,74,607
+69,Flagship Signature Villa,,Noida,3.5,482,Fair,2002,68,631
+70,Super OYO Av Residency Near Botanic Garden Of Indian Republic,Sector 45,Noida,4.1,674,Very Good,5738,68,1808
+71,Flagship Hotel Golden Crown,Sec56,Noida,3.2,25,Fair,1789,68,564
+72,Townhouse 1200 Luxury Suites Inn,Noida,Noida,3.5,482,Fair,4034,65,1412
+73,Flagship Hotel City Link By Ratiram Palace,Noida,Noida,3.0,16,Fair,1789,68,564
+74,Collection O Mayank Guest House Near ISKCON Temple Noida,Sector-58 Near Shyam Dairy Bishanpura,Noida,3.0,16,Fair,1789,68,564
+75,Flagship Angel Corporate Suites Near Iskcon Temple Noida,Gautam Buddha Nagar,Noida,3.1,302,Fair,1789,68,564
+76,Flagship Hotel Cozy Stays Near Iskcon Temple Noida,India - 201302,Noida,3.4,465,Fair,1924,70,559
+77,OYO Hotel Pinaki Stay Near Noida Sector 51 Metro Station,Sector 70,Noida,3.2,5,Fair,1789,68,564
+78,Flagship New Signature Hotel Near Iskcon Temple Noida,Mamura Sec-66 Noida ( In House Kitchen And Confrence Hall),Noida,3.7,53,Good,1789,68,564
+79,OYO Live Ur Style Near Noida Sector Metro Station,Gautam Buddha Nagar,Noida,3.2,205,Fair,1832,61,699
+80,Flagship Omega Suites,Gautam Buddha Nagar,Noida,3.2,8,Fair,2008,55,899
+81,Flagship The Resting Nest Hotel,India ,Noida,3.0,19,Fair,1789,66,599
+82,OYO Red Velvet,222 sector 63A,Noida,3.5,482,Fair,1789,72,499
+84,Flagship Hotel Orlov,Near cloud 9 hospital.,Noida,2.8,12,Fair,1789,68,564
+85,Townhouse 1160 Amazing Residency Near Botanic Garden of Indian Republic,Near Wine Shop Sector 126 Noida Noida Uttar Pradesh,Noida,2.9,16,Fair,3556,72,961
+86,Flagship Relax Inn,Fng Road,Noida,2.8,9,Fair,1789,68,564
+87,OYO RA Felicity Inn Near ISKCON Temple Noida,"Near Surbhi Hospital, Opposite Pillar No. 205",Noida,3.5,15,Good,2203,63,799
+88,Capital O Noida Stay 62 Near ISKCON Temple Noida,"Near Bus Stand, Sector 62",Noida,3.5,829,Good,2000,66,671
+89,Townhouse OAK Four Seasons,Hotel Vertigonull,Noida,3.7,103,Good,3598,69,1097
+90,Flagship Hotel D S Palace,Gautam Buddha Nagar,Noida,3.2,170,Fair,1789,68,564
+91,Flagship Hotel Balaji Near Logix city centre,Sector 49null,Noida,3.1,79,Fair,1789,65,626
+93,Collection O Hari Villa Near ISKCON Temple Noida,"Near Metro Hospital, Sector 11",Noida,3.4,53,Fair,2759,75,664
+94,Capital O Diamond 18 Near Worlds Of Wonder,Gautam Buddha Nagar,Noida,3.3,610,Fair,1852,51,899
+95,Collection O 78374 Collection O Essendi Hospitalities Llp,Sector 19,Noida,3.6,534,Good,3915,65,1370
+96,Flagship Rk Residency Near Iskcon Temple Noida,Opposite Pillar No 224 Hosiyar Pur Near Balaji Sweet,Noida,3.0,23,Fair,1924,70,564
+97,Flagship Hotel New Noida Empire,Uttar Pradesh 201301,Noida,3.5,482,Fair,1789,68,564
+98,Flagship Metaguest,Greater Noida ,Noida,3.8,13,Good,1789,66,599
+99,Flagship Hotel Royal 18,atta market,Noida,3.5,482,Fair,1789,68,564
+100,OYO Flagship Delight Stays Near ISKCON Temple Noida,"On main street, Near Sector 56, Buddh Vihar",Noida,3.4,99,Fair,1897,65,664
+101,OYO Royal Residency,"Near NAAN Factory, Wazidpur",Noida,4.5,743,Excellent,3648,64,1277
+102,Capital O Kanha Guest House,G Noida West,Noida,3.2,87,Fair,2542,78,559
+103,OYO 81028 Lohiya Residency,2/11 Near R.K Public School Sec- 66,Noida,3.5,482,Fair,2309,68,728
+104,OYO A P Residency,Sector 62,Noida,3.3,754,Fair,2285,64,800
+105,OYO Royal Residency Near Worlds of Wonder,"Near Vinayak Hospital, Sec 27",Noida,2.2,211,Fair,2744,67,882
+106,OYO Flagship 810593 Luxury Home Stay,CM56 sector 144 near oxygen park,Noida,3.5,482,Fair,1789,68,564
+107,OYO Flagship Hotel A S Residency Near Noida Sector 51 Metro Station,"Near Parthala Chowk, Sector 121",Noida,3.7,15,Good,1857,69,564
+108,Flagship Mt Stays,Sector 66 Noida  Mamura,Noida,3.1,20,Fair,2628,68,828
+109,Flagship The Black Zack Inn,Noida,Noida,3.5,482,Fair,1789,68,564
+110,Flagship Noida Villa,"Near Bus Stand, Sector 58, Bishanpura",Noida,2.9,62,Fair,1897,49,949
+111,SPOT ON Boby Residency,B.h 23 Noida Sec 63 A,Noida,3.0,31,Fair,1829,72,495
+112,OYO Flagship Arjun Residency House Near ISKCON Temple Noida,Block H,Noida,2.8,16,Fair,1789,68,564
+113,Flagship Ap Royal,Mamura,Noida,3.5,482,Fair,1789,66,599
+114,OYO Diamond Inn Near Noida Sector 51 Metro Station,House Number 12 Garhi Chaukhandi,Noida,3.5,482,Fair,2470,77,564
+115,Flagship Palak Hotels,Plot no 1 Khoda Colony,Noida,3.5,482,Fair,1789,66,599
+116,Flagship Hotel Krishna Stays Near Iskcon Temple Noida,Gautam Buddha Nagar,Noida,2.0,40,Fair,1789,68,564
+117,OYO Umang Plaza,Surajpur,Noida,2.9,85,Fair,2194,63,799
+118,Collection O 810814 Hotel Noida Saffron ,Block A main road  opposite Audi showroom sector 11,Noida,3.5,482,Fair,4771,68,1503
+119,SPOT ON 810165 Shri Hotel Vip 2,Metro Station,Noida,3.5,482,Fair,2485,68,783

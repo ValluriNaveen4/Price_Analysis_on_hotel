@@ -1,0 +1,97 @@
+,Hotel_Name,location,City,Star_rating,Ratedby,Ratingsummary,Original_price_in(₹),Discount_in(%),Final_price_in(₹)
+0,OYO Hotel Hyderabad Continental,"Near Tarakarama Theatre, Sultan Bazar",Hyderabad,4.2,1649,Very Good,1992,71,559
+1,SPOT ON Hotel Rk Residency Near Charminar,"Near Jaam Bagh, Hindustani Lane",Hyderabad,3.0,524,Fair,1951,75,477
+2,OYO Hotel Aroma Classic Near Charminar,15-1-309 Feelkhana Near Acharaya Bhavan Baba Ramdav Mandir Bagum Bazar Hyderabad,Hyderabad,3.9,585,Good,2200,72,599
+3,Flagship Langar Houz Near Golconda Fort,Bapu Nagar,Hyderabad,4.1,281,Very Good,2184,67,699
+4,OYO Sa Thirumala Residency Near Snow World,"Near VRK Silks, Himayatnagar",Hyderabad,3.7,532,Good,3227,79,674
+5,Flagship Vasista Residency,,Hyderabad,3.8,43,Good,3640,81,673
+6,OYO Raja Residency Near Snow World,"Near Raja Deluxe Complex, Musheerabad",Hyderabad,4.2,3762,Very Good,2737,65,958
+7,Flagship Hotel Akshaya Residency Near Bbr Super Speciality Hospital,Malkajgiri,Hyderabad,3.9,373,Good,3345,83,549
+8,OYO Royal Stay Near Mantra Mall ,Ranga Reddy,Hyderabad,4.5,550,Excellent,2506,77,573
+9,SPOT ON Mohit Gokul Lodge New Room's Near Snow World,Near To Secunderbad East Metro Rail Station,Hyderabad,3.4,791,Fair,1700,70,510
+10,OYO Hotel Srujana Stay Inn ,Nampally,Hyderabad,3.9,1432,Good,2972,68,926
+11,Flagship Alpine glow Zenith,"Near Malani Colony, Bowenpally",Hyderabad,4.4,1844,Very Good,2548,73,667
+12,OYO Nav Bharath Residency Near Charminar,"Near Central Gurudwara Saheb, Gowliguda",Hyderabad,4.3,1399,Very Good,3124,71,899
+13,OYO Hotel White Ridge,"Near Dilsukhnagar metro station, Krishna Nagar",Hyderabad,3.7,2057,Good,3301,78,699
+14,Super OYO Flagship Qualia Hotel Dilsukhnagar Near Miraj Cinemas - Shalini Shivani,Dilshuknagar,Hyderabad,4.0,223,Very Good,2958,65,1035
+16,OYO Hotel Aroma Classic Near Birla Mandir,Ghosha Mahal,Hyderabad,4.1,792,Very Good,1832,61,699
+17,OYO Townhouse White Ridge 112 Shivam Road Near Shanti Theatre,New Nallakunta,Hyderabad,4.2,2205,Very Good,4128,65,1445
+18,OYO Metro Lodge,Charminar,Hyderabad,3.9,362,Good,2286,74,577
+19,OYO Flagship 805938 Maruthi Residency Blocked,Redhills,Hyderabad,4.6,201,Excellent,4217,83,699
+20,Super OYO Flagship Sai Mansion Near Habsiguda Metro Station,Maruthi Nagar,Hyderabad,4.1,97,Very Good,2220,73,599
+21,Flagship Hotel Ashoka Classic,Gujarati Gali,Hyderabad,3.5,255,Good,2517,72,699
+22,OYO Flagship Hotel Elite Stay Near Habsiguda Metro Station,Secunderabad,Hyderabad,3.8,308,Good,2497,68,793
+23,SPOT ON 810214 The Hotel Vivin,ward 96 yousufguda ,Hyderabad,4.4,35,Very Good,2012,68,634
+24,Super OYO Townhouse 265 RCC Elite,Opp To J S Babu Silks,Hyderabad,5.0,3269,Fabulous,6437,66,2132
+25,OYO Townhouse 196 De Alphabet,"Near Sai Baba Temple, Gudimalkapur",Hyderabad,4.3,2961,Very Good,4658,65,1630
+26,Collection O 80977E SS Metro Ritz,Ameerpet,Hyderabad,4.3,102,Very Good,4651,68,1465
+27,Collection O Hotel Lotus Grand Near Secunderabad Railway Station,Secunderabad,Hyderabad,4.0,2695,Very Good,4194,65,1468
+28,Capital O Hotel Samrat Palace Near Birla Mandir,Abids,Hyderabad,3.0,178,Fair,2712,77,614
+29,SPOT ON Blue Star Lodge,Nampally,Hyderabad,3.0,23,Fair,1729,71,500
+30,Collection O Hotel Park Heights Banjara Hills Near Gvk One Mall,Banjara Hills,Hyderabad,3.7,1014,Good,3469,67,1123
+32,OYO Hotel Vaishnavi Inn,Secunderabad,Hyderabad,4.2,2261,Very Good,3149,65,1102
+33,SPOT ON Hotel Baba Classic Near Snow World,Monda Market,Hyderabad,2.5,287,Fair,2492,83,399
+34,SPOT ON Bhavani Rest Rooms,Monda Market,Hyderabad,3.2,28,Fair,1722,70,500
+35,OYO Flagship 80484G Hotel Srinivasa Grand ,Abids South,Hyderabad,3.8,17,Good,2999,68,945
+36,Super OYO Townhouse OAK Hotel N7 Elite,Champapet,Hyderabad,4.7,82,Excellent,3869,65,1354
+37,OYO Townhouse 710 Hotel Regal Near Birla Mandir,"Nampally station road, Adj Lane Metro Foot Wear, Opp. Iskcon Temple, Abids,  Hyderabad, Telangana",Hyderabad,3.0,590,Fair,2522,73,673
+38,Capital O White Ridge,"Near Khazana Jewellery, Dilsukhnagar",Hyderabad,4.3,1677,Very Good,3465,64,1213
+39,Flagship Thatipally Mansion Near Opp Lane Vishal Mega Mart,Kothapet ,Hyderabad,4.2,2375,Very Good,3195,65,1118
+40,Capital O Hotel Prestige,"Centrally Located, Near Sun Shine Hospital, Paradise Road",Hyderabad,4.6,4039,Excellent,4818,65,1686
+41,Capital O Loya Legend Near Birla Mandir,"Near ISKCON Temple, Abids",Hyderabad,3.4,166,Fair,3179,68,1002
+42,SPOT ON Gayatri Lodge Near Snow World,Ranigunj,Hyderabad,3.9,703,Good,1428,68,450
+43,OYO Athithi Inn Near Hyderabad Central,"Near Maithrivanam Complex, Ameerpet",Hyderabad,3.5,2570,Good,3771,67,1239
+44,Super OYO Townhouse 397 RCC Majestic,Champapet,Hyderabad,5.0,3319,Fabulous,6141,65,2149
+45,OYO Townhouse 359 Begumpet Near Hyderabad Central,"Vinn Hospital, Begumpet",Hyderabad,4.6,2835,Excellent,4860,65,1675
+46,OYO Hotel Aadaab Near Birla Mandir,"Near Nampally railway station, Mahesh Nagar",Hyderabad,2.7,206,Fair,2123,71,611
+47,OYO Townhouse 862 Che Sigma,Malkajgiri,Hyderabad,4.3,2736,Very Good,4357,65,1525
+48,OYO Home Comfortable Stays Near Asman Gadh Current Office,Karan Bagh,Hyderabad,3.8,782,Good,2181,65,760
+49,Super OYO Capital O Alpine Glow Pinnacle,"Near Veg Market, Bowenpally",Hyderabad,4.5,2681,Excellent,3159,64,1106
+50,Flagship Ramoji Kothapet Near Miraj Cinemas - Shalini Shivani,Kothapet,Hyderabad,3.9,1617,Good,1975,65,691
+51,Super OYO Townhouse 1033 Ameerpet,Ameerpet Mandal,Hyderabad,4.6,2121,Excellent,5665,65,1983
+52,OYO Hotel Vaishnavi Park,"Near Monda Market, Shivaji Nagar",Hyderabad,3.5,1359,Good,3445,64,1206
+53,OYO Townhouse 1065 Hotel S Continental Near Birla Mandir,Nampally Mandal,Hyderabad,3.6,542,Good,3488,64,1221
+54,Flagship Relax Grand Near Snow World,Secunderabad Mandal,Hyderabad,4.1,775,Very Good,2717,68,855
+55,Collection O Banjara Hills Near GVK One Mall,"Near Aasha hospital, Venkat Nagar",Hyderabad,4.3,1921,Very Good,4757,65,1665
+56,Collection O White Ridge Near Miraj Cinemas - Shalini Shivani,L B Nagar,Hyderabad,4.4,2302,Very Good,4311,65,1509
+57,Flagship Sri Residency Near Hyderabad Central,Ameerpet,Hyderabad,3.7,1162,Good,3094,65,1083
+59,OYO Home Pramod Prime Homes Near Miraj Cinemas - Shalini Shivani,Nagole,Hyderabad,4.2,1443,Very Good,2424,66,813
+60,Super OYO Capital O Townvilla Guest House Near Hyderabad Central,"Near Indo US Super Speciality Hospital, Ameerpet",Hyderabad,4.8,1730,Excellent,4771,68,1503
+61,OYO Hotel Pariwar Inn Near Charminar,Ghansi Bazaar,Hyderabad,5.0,1,Fabulous,2932,68,924
+62,Flagship Goldhorn Hotels Mehdipatnam,Mehdipatnam,Hyderabad,4.3,2098,Very Good,3698,65,1294
+63,Super OYO Capital O Alpine Glow Sunrise Near Hyderabad Central,"Near RBI Quarters, Begumpet",Hyderabad,4.4,1026,Very Good,3804,65,1323
+64,Super OYO Townhouse 164 ESI Hospital Near Hyderabad Central,Sanath Nagar,Hyderabad,4.7,4376,Excellent,5359,64,1876
+65,OYO Hotel Padmini Near Birla Mandir,Lakdikapul,Hyderabad,3.9,336,Good,3582,64,1254
+66,OYO Heavens Inn Near Snow World,Secunderabad Mandal,Hyderabad,4.2,385,Very Good,3297,65,1154
+67,OYO White Ridge Near Miraj Cinemas - Shalini Shivani,"Near Sanjeevini Hospital, Kothapet road",Hyderabad,4.1,1615,Very Good,3465,64,1213
+68,Capital O Rcc Pristine,Ameerpet,Hyderabad,5.0,1699,Fabulous,5948,65,2082
+69,OYO Alpine Glow Crest,"Shop No. 10-4-A/130/2, Addagutta Road, Teachers Colony",Hyderabad,5.0,775,Fabulous,3488,64,1221
+70,Flagship Nandi Hotel,Indiranagar Basti,Hyderabad,2.5,22,Fair,1936,67,626
+71,Capital O Sri Suprabhat Grand Near Snow World,Nera Venkataramana Theater,Hyderabad,3.9,502,Good,4149,65,1452
+72,Flagship Raga Stays Near Miraj Cinemas - Shalini Shivani,Chaitanyapuri,Hyderabad,3.6,73,Good,2527,74,649
+73,SPOT ON Pnd Complex,R C I Rd,Hyderabad,3.6,522,Good,2070,56,899
+74,OYO SilverKey Himayat Nagar Circle Near Snow World,Narayanguda,Hyderabad,2.8,2039,Fair,4341,65,1519
+75,OYO V Guest Inn Near Hyderabad Central,Ameerpet,Hyderabad,4.3,2110,Very Good,3454,65,1209
+76,OYO Hotel Shannu Residency,"Near Apollo Pharmacy, Secunderabad",Hyderabad,4.1,1258,Very Good,1939,64,679
+77,Super OYO Townhouse 269 RCC Sunrise,"Near Begumpet lifestyle, Kundanbagh Colony",Hyderabad,5.0,1538,Fabulous,5935,65,2077
+78,Super OYO Townhouse OAK Hotel Belsons Taj Mahal Near Snow World,"Near Swapnalok Complex, Patny Centre",Hyderabad,4.6,1124,Excellent,4966,66,1644
+79,OYO Vasundhara Guest House Near Snow World,Near Bombay Hotel,Hyderabad,3.1,1000,Fair,2354,73,623
+80,Flagship White Ridge,"Near Sai Sanjeevani Hospital, Huda Colony",Hyderabad,4.2,1772,Very Good,3628,64,1270
+81,Collection O Hotel Sai Krupa,Kachiguda station road ,Hyderabad,3.8,1080,Very Good,4911,68,1547
+82,OYO Sruan Inn,Abhyudaya Nagar,Hyderabad,3.0,71,Fair,3345,70,974
+83,Flagship Malkajgiri Near Habsiguda Metro Station,Malkajgiri,Hyderabad,4.3,3246,Very Good,3308,64,1158
+84,Capital O The City Park Near Birla Mandir,"Near The City Park, Chirag AlicLane",Hyderabad,3.1,1367,Fair,3634,65,1272
+85,OYOFlagship Hotel R Square Near LB Nagar Metro Station,Hyderabad,Hyderabad,3.3,83,Fair,2888,68,910
+86,Super OYO Mint Leaves Near Alcazar Mall,"Annapurna Studios, Jubilee Hills",Hyderabad,3.7,458,Good,3056,67,994
+87,Flagship Hotel R Square,Hyderabad,Hyderabad,2.2,13,Fair,1789,68,564
+88,OYO Townhouse 113 The Shubham Dilsukhnaga Near Miraj Cinemas - Shalini Shivani,Kothapet,Hyderabad,3.3,1075,Fair,3517,65,1231
+89,SPOT ON Gopi Mini Guest House Near Erragadda Metro Station,Erragadda,Hyderabad,4.6,181,Excellent,1999,68,630
+90,OYO Hotel Priya Residency,"Near Raniganj, MG Road",Hyderabad,3.7,1043,Good,2169,68,676
+91,OYO Townhouse 1073 Hotel Ragas Grand,Telangana Hyderabad Telangana India,Hyderabad,3.2,270,Fair,2997,71,869
+92,Flagship Hotel Vaishnavi Palace,"#2-4-133 Beside KFC, Mahatma Gandhi Rd, Secunderabad, Telangana",Hyderabad,4.1,1560,Very Good,3406,65,1171
+93,Collection O Hotel PNR Banjara Hills Near GVK One Mall,Guru Bramaha,Hyderabad,3.5,802,Good,3229,72,899
+94,OYO Imperial Guest House Near Lumbini Park,"Near Yashoda Hospital, Somajiguda",Hyderabad,2.6,165,Fair,2499,75,602
+96,Flagship Royal Galaxy Lodge Near Charminar,,Hyderabad,3.0,30,Fair,2222,68,699
+97,Capital O Hotel Surabhi Elite Near Miraj Cinemas - Shalini Shivani,Kothapet,Hyderabad,4.1,1097,Very Good,5928,65,2075
+98,Capital O Hotel Vaishnavi,"Near Csi Wesley Church, Paras Towers",Hyderabad,4.3,1393,Very Good,5119,64,1792
+99,OYO Hotel Shyam Near Snow World,Secunderabad Mandal,Hyderabad,3.2,108,Fair,2286,75,564

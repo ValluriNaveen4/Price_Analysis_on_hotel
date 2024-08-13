@@ -1,0 +1,114 @@
+,Hotel_Name,location,City,Star_rating,Ratedby,Ratingsummary,Original_price_in(₹),Discount_in(%),Final_price_in(₹)
+0,SPOT ON Dalhousie Guest House Near Howrah Bridge,Stand Road,Kolkata,4.5,3375,Excellent,2833,83,454
+1,OYO White Palace Hotel & Resort New Alipore Near Kalighat Kali Temple,Opposite New Alipore Residency,Kolkata,4.0,859,Very Good,3309,81,599
+2,Flagship Royal Palace,"Near Acropolis Mall, Purba Abasan",Kolkata,4.3,1820,Very Good,2715,81,499
+3,Flagship Royal Plaza Near Acropolis Mall,"Near GST Bhawan, Ruby",Kolkata,4.3,2008,Very Good,2366,76,559
+4,Collection O Hotel Green Leaf Near Acropolis Mall,Kasba,Kolkata,4.1,1303,Very Good,3171,81,599
+5,Flagship Hotel Divira Inn,New Town,Kolkata,3.8,1111,Very Good,4217,85,599
+6,Super OYO Collection O The Kolkata Hotel Near Acropolis Mall,Kasbah North,Kolkata,4.7,1509,Excellent,2796,77,636
+8,SPOT ON Silver Green Near Netaji Subhash Chandra Bose International Airport,"Mondal Ganthi Road, Kaikhali, VIP Road Kolkata 700052",Kolkata,5.0,3174,Fabulous,2215,68,698
+9,Super OYO Townhouse 209 Habitat New Town,Action Area I,Kolkata,4.5,2296,Excellent,5310,77,1205
+10,Flagship Fantasy Near City Centre Salt Lake,Salt Lake,Kolkata,3.8,220,Good,2517,68,793
+11,OYO Diamond Plaza Near Acropolis Mall,Kasbah Northnull,Kolkata,4.0,2426,Very Good,2694,77,599
+12,OYO SilverKey Park Circus Near Birla Mandir,"Near S S Chatterjee Heart centre, Park Circus",Kolkata,4.5,2330,Excellent,3787,68,1193
+13,OYO Ankan Regency Near Acropolis Mall,"595, Rajdanga main road, Near KMDA office Kolkata",Kolkata,4.6,429,Excellent,2432,73,649
+14,Flagship Diamond Regency Near Birla Mandir,Near Acropolis Mall,Kolkata,4.2,788,Very Good,2332,74,599
+15,Super OYO Capital O Krish Residency,"Near Action Area I, New Town Bus Stand DLF1, Kolkata",Kolkata,4.0,1211,Very Good,6031,80,1199
+16,OYO Townhouse 143 Hotel Royal Garden Near park Street Mullick bazar crossing,"Near Jameson Inn, Park St",Kolkata,4.7,7754,Excellent,3718,65,1301
+17,OYO Townhouse Hotel Gokul Regency Near Dum Dum Metro Station,"Opposite ILS Hospital, Nagerbazar",Kolkata,4.1,4282,Very Good,4335,72,1214
+18,OYO Honey Regency Near City Centre Salt Lake,C L Block,Kolkata,2.9,229,Fair,2766,79,564
+20,Flagship Santoshi Banquet And Marriage Hall Near St. Thomas's Church,Kulia,Kolkata,2.5,51,Fair,1993,71,564
+21,OYO Smriti Villa Residency,Sector III,Kolkata,5.0,17,Fabulous,2715,68,855
+22,OYO G R Hospitality,VIP Road Baguihati Kolkata Airport Near Ladies Hostel,Kolkata,4.1,782,Very Good,2501,76,598
+23,Super OYO Flagship Airport Comfort Stay Near Noapara Metro Station,"Near Opposite To Hotel Moon Light, Bediapara",Kolkata,4.9,2050,Fabulous,3231,68,1020
+24,Collection O 74257 Gokul Residency,"Near Emami City, Nagerbazar, Dum Dum",Kolkata,4.9,5588,Fabulous,2732,65,956
+25,Townhouse Oak Hotel Lake View Royal Near Science City,East Topsia Road,Kolkata,4.2,863,Very Good,4199,64,1470
+26,OYO Townhouse 229 Hotel Mannat International Near Science City Topsia,Near Bypass Connector,Kolkata,4.8,5946,Excellent,4611,65,1614
+27,"Flagship Hotel Marina Near Cit Road Ladies Park, Park Circus","Near Ladies Park, Beniapukur",Kolkata,4.8,2952,Excellent,3651,65,1278
+28,OYO Padmavati Projects Pvt Ltd Near Netaji Subhash Chandra Bose International Airport,"Biswa Bangla Sarani Behind Binany Building, Chinar Park, Beside NPG Hotel, Nibedita Apartment ",Kolkata,3.5,464,Good,2503,76,598
+29,Collection O Bricks Inn Hazra Road Near Birla Mandir,Opposite Hotel Swagath,Kolkata,4.3,1110,Very Good,3702,68,1166
+30,Flagship Binayak Banquet & Ac Guest House Near Acropolis Mall,Behind Binayak Marriage Hall Beside Sayambor Hall,Kolkata,3.3,367,Fair,1953,79,399
+31,Collection O Hotel Hamza International Near Howrah Bridge,"Near College Street, MG Road",Kolkata,4.2,1991,Very Good,6048,68,1905
+32,Collection O Premium Hotel Near RDB Cinemas,"1/B/24, AL BLOCK, STREET NO.22,NEW TOWN, RAJARHAT",Kolkata,4.9,747,Fabulous,3251,65,1138
+33,OYO Hotel Homely Raj Near Kalighat Kali Temple,Manoharpukur Road,Kolkata,4.2,1894,Very Good,3427,65,1199
+34,Collection O Motisarai Near Birla Mandir,Off Park Street,Kolkata,4.2,1119,Very Good,4377,68,1379
+35,OYO Flagship Hotel Bypass Inn Near Birla Mandir,"Netaji Nagar, VIP Nagar, Near Netaji Sporting Club",Kolkata,3.9,283,Good,2148,73,564
+36,Flagship Mourigram Near Andul Rd,Howrah,Kolkata,4.1,7149,Very Good,3172,65,1110
+38,Flagship Dark N Dreams,Near Dhan Math,Kolkata,3.2,98,Fair,2716,78,574
+39,Townhouse OAK Kzar Corporate Hotel Near St. Thomas's Church,Sealdah - Entally,Kolkata,4.7,656,Excellent,6644,66,2235
+40,OYO Hotel City Of Joy,Salt Lake,Kolkata,4.2,620,Very Good,2597,68,818
+41,OYO Jalan Lake View Near Mani Square,"Near Beliaghata lake side club, Phool Bagan",Kolkata,3.3,455,Fair,2517,68,793
+42,Super OYO Townhouse 727 Hotel The Platinum,Sector-1,Kolkata,4.3,1747,Very Good,4761,65,1666
+43,Super OYO Townhouse 1050 Centre Point Inn Near Indian Museum,Beside K C Das Sweet Esplanade Post Office,Kolkata,4.6,1543,Excellent,7884,65,2759
+44,Super OYO Capital O Hotel Hiland International Near Acropolis Mall,"Near Acropolis Mall, Rajdanga Main Road",Kolkata,4.4,1722,Very Good,4351,65,1523
+45,OYO Townhouse 567 MB International,Beniapukur,Kolkata,3.8,1900,Good,3777,65,1322
+46,Super OYO Townhouse 75779 The Royal Retreat,Kolkata International Airport,Kolkata,4.6,4971,Excellent,5067,66,1692
+47,Collection O 810477 Gariahat Inn,Hindustan Park,Kolkata,5.0,27,Fabulous,4179,68,1317
+48,Flagship Delightful Stay Em Byepass Near Birla Mandir,Uttar Panchanna Gram,Kolkata,4.0,1889,Very Good,3297,65,1154
+49,Flagship Metro Inn Near City Centre Salt Lake,Near Saltlake Sec V Metro,Kolkata,4.1,92,Very Good,2912,70,845
+50,OYO The Olive Near City Centre Salt Lake,"Near Bus Stand, Anandaloke Hospital, Cl Block",Kolkata,3.5,522,Good,3229,69,990
+51,OYO Starlight Guest House Near Birla Mandir,Shantipally Near Acropolis Mall,Kolkata,3.5,743,Good,2186,73,577
+52,OYO A Retro Near Rdb Cinemas,"Near Tank N0.3, New Town, Rajarhat",Kolkata,3.0,209,Fair,3171,80,626
+53,OYO Silver Inn Near Birla Mandir,"Near Acropolis Mall, Kashba",Kolkata,3.4,716,Fair,2259,67,725
+54,OYO Hotel Regency Near Acropolis Mall,,Kolkata,4.2,860,Very Good,3425,68,1079
+55,Capital O Fortune Inn Near Birla Mandir,Kasba,Kolkata,2.7,107,Fair,2535,77,559
+56,"OYO Red Velvet Inn Near Chinar Park,airport","Near Chinar Park, Backside of NPG Hotel",Kolkata,4.0,674,Very Good,1897,68,598
+57,Super OYO Flagship Adri Hotels 2 Near Dum Dum Metro Station,Near ILS Hospitals Dum Dum Nagerbazar Opposite Bhutan House,Kolkata,4.6,2160,Excellent,4168,68,1313
+58,Flagship Nayak Palace Inn Near Birla Mandir,Ballygunge,Kolkata,3.7,133,Good,3351,73,903
+59,Flagship Apan Guest House Near Acropolis Mall,"Near Mukundapur  Bus Stop R.N Tagore Institute of Cardiac Sciences, Narayana Health",Kolkata,3.3,244,Fair,2062,71,598
+60,SPOT ON Sonar Bangla Lodge,"Near Howrah railway station, Howrah AC Market",Kolkata,3.2,654,Fair,3577,68,1127
+61,OYO Flagship Maple The Residence Near RDB Cinemas,"Near Coal India East Enclave DLF 1 New Town Action Area 1, Mohisgota Box Bridge",Kolkata,4.1,518,Very Good,3002,68,946
+62,OYO SilverKey Deshapriya Park Near Kalighat Kali Temple,"Near EDEN GROUP BUILDING, Manoharpukur",Kolkata,4.6,1272,Excellent,4472,65,1565
+64,Flagship Hotel Shanavi Chinar Park,"29/2 Sayan Abasan, Nishi Kanan, Beside AR Motors, Chinar Park",Kolkata,2.6,230,Fair,2716,79,564
+65,OYO Trisha Guest House,"Behind New Life Nurshing Home, Oppssite Arati cinema, Sahabagan",Kolkata,4.4,1388,Very Good,2988,64,1046
+66,OYO Flagship Hotel Suleman Palace Near St. Thomas's Church,Bux Lane,Kolkata,3.7,12,Good,2801,68,882
+67,Flagship Tranquil Stay Near Kalighat Kali Temple,"Near Alipore guest House, Mangalam",Kolkata,3.3,1066,Fair,3577,68,1127
+68,OYO Fantasy Stay Near City Centre Salt Lake,"Near Sector 1, Bidhan Nagar",Kolkata,3.7,816,Good,2557,65,895
+69,Flagship Swastik Inn Near South City Mall,Poddar Nagar,Kolkata,2.3,31,Fair,2846,80,549
+70,Flagship Swapan Guest House Near City Centre Salt Lake,Saltlake,Kolkata,4.0,425,Very Good,2752,65,963
+71,Flagship Titanic Guest House,Near Bidhanagar Party Office,Kolkata,3.8,1111,Very Good,1789,68,564
+72,POP Jashoda Bhawan Near Girish Mancha,Howrah,Kolkata,3.8,203,Good,2957,65,1035
+73,Super OYO Collection O De Sivalika Boutique Near Dakshineswar Kali Temple,"Grand Trunk Road, Belur Math",Kolkata,4.0,655,Very Good,5517,65,1931
+74,OYO Townhouse 696 Hotel Mayfair Tower Near Acropolis Mall,Hussainpur,Kolkata,4.2,1155,Very Good,3994,65,1398
+75,Collection O Amishat Residency Near Rdb Cinemas,"Behind Aahirini Market, Newtown",Kolkata,3.2,137,Fair,1930,53,899
+76,Townhouse OAK Hotel 1 Lovelock,Ballygunge,Kolkata,4.2,1329,Very Good,6813,68,2139
+77,Super OYO Townhouse OAK Shubhham Regency Near City Centre Salt Lake,Bidhannagar,Kolkata,4.9,898,Fabulous,6682,65,2339
+78,OYO Hotel Maruti Lodging,"Above Reliance Trends, Raghunathpur",Kolkata,3.9,373,Good,2485,64,870
+79,OYO Royal Regency Near Acropolis Mall,Rajdanga Main Road,Kolkata,4.3,1203,Very Good,2166,44,1199
+81,Flagship The Nest Inn Near Acropolis Mall,Near Raj Market,Kolkata,4.5,281,Excellent,2618,65,916
+82,Super OYO Flagship Adri Hotels Near Dum Dum Metro Station,"Near Sarojini Naidu College for Women, Golpark",Kolkata,4.4,1430,Very Good,4012,68,1264
+84,Townhouse OAK Hotel Radiant Near Birla Mandir,Park Circus,Kolkata,3.4,1103,Fair,5424,68,1725
+85,Collection O The Coco Inn Near South City Mall,"Near 13C Bus Stand, Regent Estate",Kolkata,3.8,58,Good,3698,65,1294
+86,OYO Hotel Padmavati Near Netaji Subhash Chandra Bose International Airport,"Biswa Bangla Sarani Behind Binany Building, Chinar Park, Beside NPG Hotel, Nibedita Apartment ",Kolkata,4.0,363,Very Good,2335,68,736
+87,SPOT ON Maa Rakhakali Bhawan Near Victoria Memorial,"Near Shalimar Railway , Howrah 3",Kolkata,3.9,50,Good,3378,65,1182
+88,Collection O Revaa Near City Centre Salt Lake,Bidhannagar,Kolkata,4.6,734,Excellent,4965,64,1738
+89,Townhouse OAK Kzar Select Near St. Thomas's Church,700017,Kolkata,4.2,438,Very Good,5977,65,2092
+90,OYO Rooms 91148 Hotel Stay Inn,Action Area I,Kolkata,4.3,588,Very Good,3752,68,1182
+91,Flagship Dreamy Sunrise By Stayapart Near City Centre Salt Lake,Sector F East Kolkata,Kolkata,1.5,18,Fair,3640,78,790
+93,Super OYO Dk Inn Near Kalighat Kali Temple,"Near Deshapriya Park, Kalighat",Kolkata,4.3,2047,Very Good,5802,64,2031
+94,Collection O Aafreen Tower Near St. Thomas's Church,Esplanade,Kolkata,4.1,1640,Very Good,6694,65,2343
+95,OYO Avenue Inn Near Birla Mandir,Near By Land Mark Shyam Sundar Jewellers,Kolkata,4.2,460,Very Good,3849,65,1347
+96,Townhouse OAK 92847 Hotel Glorious Palace Near Birla Mandir,"Near Topsia More, beside Roshan Garden & Orchid Banquet, Science City area",Kolkata,3.9,187,Good,7422,65,2598
+97,Flagship Shree International,Action Area I,Kolkata,4.0,574,Very Good,3201,68,1008
+98,OYO 701972 Flagship Shree Corporate  Near TCS Gitabitan,Sector V,Kolkata,4.1,161,Very Good,2282,64,799
+99,Flagship Hotel Vrindavan,AA-027 Salt Lake Sector 1 1st Cross Road PNB Island Bus Stop Bidhannagar Ultadanga Kolkata 700064,Kolkata,4.1,33,Very Good,3591,65,1257
+100,OYO Townhouse 095 Akash Ganga Park Circus Near Birla Mandir,Beniapukur,Kolkata,3.9,1436,Good,5807,65,2032
+101,OYO Maa Tara Guest House Near Acropolis Mall,"Near R.N.Tagore Hospital, Nitainagar",Kolkata,2.3,245,Fair,2646,77,598
+102,Flagship The Buddha Guest House,Near Vidyasagar Hospital,Kolkata,2.5,62,Fair,2646,67,847
+103,OYO Luxury Inn Tollygunge,Tollygunge,Kolkata,2.9,339,Fair,2964,68,934
+104,OYO Hotel Sigma,"Near Buxarah Road, Howrah",Kolkata,3.6,478,Good,4251,68,1339
+105,Flagship Hotel Red Rose Near Noapara Metro Station,Dum Dum,Kolkata,3.3,143,Fair,2643,77,602
+106,Flagship Brill Rooms Saltlake City Centre,Saltlake,Kolkata,3.6,518,Good,4165,64,1458
+107,Capital O Hotel Gardenia Near Birla Mandir,"Near Laxminarayan Temple, Sarat Bose Road",Kolkata,3.7,748,Good,4771,65,1670
+108,Flagship Kalighat,"Near Raja Santosh Road, Alipore",Kolkata,3.8,1342,Good,4165,64,1458
+109,Flagship Hmb Guest House,Sector II Salt lake water tank no 8,Kolkata,3.8,1111,Very Good,4217,68,1328
+110,Flagship M.m Howrah Maidan Home Stay,"21, AINUDDIN GHAT MAJHI LANE",Kolkata,2.1,42,Fair,3644,68,1148
+111,Flagship New Town Rooms,Newtownnull,Kolkata,2.8,20,Fair,2052,65,718
+112,OYO Townhouse 444 Heera Holiday Inn Near St. Thomas's Church,51,Kolkata,2.8,31,Fair,6500,65,2235
+113,OYO Ma Kali Guest House Near City Centre Salt Lake,"Near FD Block, Bidhannagar",Kolkata,2.9,166,Fair,2499,62,949
+114,Collection O Kyd Guest House Near Indian Museum,700001,Kolkata,3.3,154,Fair,5949,65,2082
+115,OYO Flagship 70403 Chinar Inn,Chinar parknull,Kolkata,3.8,1111,Very Good,2755,68,868
+116,Flagship Relax View Dumdum Park Near City Centre Salt Lake,Dum Dum Park,Kolkata,2.5,97,Fair,2988,68,941
+117,OYO Townhouse 424 Beck Bagan Ballygunge Near Birla Mandir,"Near Quest Mall, Karaya Road",Kolkata,3.5,366,Good,5064,65,1772
+118,Townhouse OAK Hotel Tahoura International Near St. Thomas's Church,Repon Street,Kolkata,3.7,116,Good,7422,65,2598
+119,Flagship Amaris Stay Hub VIP Bazar Near Science City,"171D/1F/2, 49 Picnic Garden Road, VIP Bazar, Off EM Bypass",Kolkata,3.4,473,Fair,4572,65,1600
